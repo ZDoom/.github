@@ -4,7 +4,7 @@
 We are the ZDoom team, a team of developers and contributors of many different skills and hobbies. We primarily develop and maintain the GZDoom and Raze source ports, and also some of the tools that can be used to fascilitate editing of game modifications which are supported by them.<br/>
 
 ### 🌈 Contribution guidelines <br/>
-Issues: We like issues to be separated into one-per-issue, not bulk issues. All bug reports, including crashes, should have some sort of easily reproducable content; this will make merges much easier.<br/>
+Issues: We like issues to be separated into one-per-issue, not bulk issues. All bug reports, including crashes, should have some sort of easily reproducable content; this will make fixes much easier.<br/>
 <br/>
 Pull Requests: The philosophy of our programming is a player/user-first model. We strongly disfavor any code that takes control away from the end-user for their gaming experience.<br/>
 <br/>
