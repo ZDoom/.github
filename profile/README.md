@@ -11,7 +11,7 @@ Pull Requests: The philosophy of our programming is a player/user-first model. W
 Code Licensing: All contributors must allow their code to be licensed under BSD 3-clause for portability between projects, where possible. The GZDoom and Raze source ports are both GPL licensed, with Raze having additional Build license stipulations. Please refer to the documents contained within the projects for further information.<br/>
 <br/>
 ### 👩‍💻 Useful resources <br/>
-https://forum.zdoom.org/index.php - ZDoom forum<br/>
+https://forum.zdoom.org/ - ZDoom forum<br/>
 https://zdoom.org/wiki/ - ZDoom/GZDoom Wiki<br/>
 https://raze.zdoom.org/wiki/ - Raze Wiki<br/>
 https://docs.google.com/spreadsheets/d/1pvwXEgytkor9SClCiDn4j5AH7FedyXS-ocCbsuQIXDU/edit?usp=sharing - Translation sheet (for string localization)<br/>
