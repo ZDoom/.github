@@ -17,7 +17,7 @@
 - https://zdoom.org/wiki/ - ZDoom/GZDoom Wiki
 - https://raze.zdoom.org/wiki/ - Raze Wiki
 - https://docs.google.com/spreadsheets/d/1pvwXEgytkor9SClCiDn4j5AH7FedyXS-ocCbsuQIXDU/edit?usp=sharing - Translation sheet (for string localization)
-- https://discord.gg/zdoom - Official Discord Server
+- https://dsc.gg/zdoom - Official Discord Server
 
 ### 🍿 Fun facts
 - Thanks to Doom, demons die at a rate between hundreds to millions per second, depending on the time of day and the latest popular mapset to be released for it.
